@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.Temperature button {
+  background: #517fa4;
+  margin: 10px auto;
+}
